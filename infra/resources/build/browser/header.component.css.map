@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/core/header/header.component.scss"],
+  "sourcesContent": ["a.mat-menu-item {\n  text-decoration: none;\n  color: black;\n}\n\n.home-link {\n  color: white;\n  text-decoration: none;\n}\n"],
+  "mappings": ";AAAA,CAAA,CAAA;AACE,mBAAA;AACA,SAAA;;AAGF,CAAA;AACE,SAAA;AACA,mBAAA;;",
+  "names": []
+}
