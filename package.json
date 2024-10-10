@@ -1,0 +1,12 @@
+{
+  "name": "aws-practice-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "cd infra && npm run synth-and-deploy",
+    "build-and-deploy": "cd shop-ui && npm run build && cd .. && npm run deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
